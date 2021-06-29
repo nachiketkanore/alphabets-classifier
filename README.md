@@ -11,7 +11,7 @@
 
 ## Inference
 
-Add image here
+![output](https://user-images.githubusercontent.com/44920607/123751411-5a53b100-d8d5-11eb-868a-2c2e84b6bdc9.png)
 
 ## Tech
 

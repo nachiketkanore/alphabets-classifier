@@ -1,8 +1,8 @@
 # Simple Alphabet Classifier
 
-Created a transfer learning AI model to classify competerized alphabets from images.
-Created whole dataset from scratch in OpenCV
-
+* Created a transfer learning AI model to classify computerized alphabets from images.
+* Created whole dataset from scratch in OpenCV
+* Link to dataset: [@Kaggle](https://www.kaggle.com/nachiketkanore/english-alphabets-computerized)
 ## Description
 
 * Transfer learning model
@@ -21,8 +21,8 @@ Add image here
 ## Execution
 
 ```
-git clone this_project
+git clone https://github.com/nachiketkanore/alphabets-classifier.git
 python train.py
 ```
 
-* This will directly show inference results. Tweak inside to see training pipeline
+* This will directly show inference results. Tweak inside to see training pipeline.
